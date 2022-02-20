@@ -1,4 +1,4 @@
-module check-ha-535583
+module github.com/shinshin86/check-ha-535583
 
 go 1.17
 
